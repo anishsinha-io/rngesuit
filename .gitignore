@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+# Apple
+.DS_Store
+
+# Test data
+schema*.sql
+
+tmp/
+assets/*
+!assets/.gitkeep
